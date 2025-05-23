@@ -40,3 +40,4 @@ jobs:
             --region "$REGION" \
             --output text
 
+# force trigger
